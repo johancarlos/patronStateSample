@@ -1,0 +1,12 @@
+/Users/kairos/Projects/PatronState/PatronState/obj/Debug/netcoreapp3.1/PatronState.csprojAssemblyReference.cache
+/Users/kairos/Projects/PatronState/PatronState/obj/Debug/netcoreapp3.1/PatronState.AssemblyInfoInputs.cache
+/Users/kairos/Projects/PatronState/PatronState/obj/Debug/netcoreapp3.1/PatronState.AssemblyInfo.cs
+/Users/kairos/Projects/PatronState/PatronState/obj/Debug/netcoreapp3.1/PatronState.csproj.CoreCompileInputs.cache
+/Users/kairos/Projects/PatronState/PatronState/bin/Debug/netcoreapp3.1/PatronState.deps.json
+/Users/kairos/Projects/PatronState/PatronState/bin/Debug/netcoreapp3.1/PatronState.runtimeconfig.json
+/Users/kairos/Projects/PatronState/PatronState/bin/Debug/netcoreapp3.1/PatronState.runtimeconfig.dev.json
+/Users/kairos/Projects/PatronState/PatronState/bin/Debug/netcoreapp3.1/PatronState.dll
+/Users/kairos/Projects/PatronState/PatronState/bin/Debug/netcoreapp3.1/PatronState.pdb
+/Users/kairos/Projects/PatronState/PatronState/obj/Debug/netcoreapp3.1/PatronState.dll
+/Users/kairos/Projects/PatronState/PatronState/obj/Debug/netcoreapp3.1/PatronState.pdb
+/Users/kairos/Projects/PatronState/PatronState/obj/Debug/netcoreapp3.1/PatronState.genruntimeconfig.cache

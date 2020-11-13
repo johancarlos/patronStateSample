@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D4D0D32E-882C-483B-BB8B-41B90743C2C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PatronState/Summary.md">
+    <Files>
+      <File FileName="PatronState/Program.cs" Line="12" Column="6" />
+      <File FileName="PatronState/IFlightState.cs" Line="6" Column="37" />
+      <File FileName="PatronState/Flight.cs" Line="12" Column="20" />
+      <File FileName="PatronState/DepartureState.cs" Line="12" Column="43" />
+      <File FileName="PatronState/OnAirState.cs" Line="15" Column="1" />
+      <File FileName="PatronState/ArrivalState.cs" Line="14" Column="1" />
+      <File FileName="PatronState/ReadyToFlightState.cs" Line="12" Column="1" />
+      <File FileName="PatronState/Summary.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PatronState" expanded="True">
+            <Node name="PatronState" expanded="True">
+              <Node name="Summary.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PatronState PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
